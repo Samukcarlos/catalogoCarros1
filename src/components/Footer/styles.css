@@ -1,0 +1,26 @@
+footer {
+    
+    align-items: center;
+    text-align: center;
+    padding: 20px 93px;
+    background-color: var(--ct-color-bg-secondary);
+    color: var(--ct-color-font-tertiary);
+    font-size: 20px;
+    height: 93px;
+    
+}
+@media (min-width: 600px){
+    .ct-instagran{      
+        padding: 20px 0px ;
+        text-align: start;
+    }  
+}
+@media (min-width: 600px){
+    ct-endereço{
+        padding: 20px 0px ;
+        text-align: start;
+        
+    }  
+}
+
+

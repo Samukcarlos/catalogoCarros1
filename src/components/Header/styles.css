@@ -1,0 +1,27 @@
+header {
+    
+    flex-direction: column;
+    align-items: center;
+    color: var(--ct-color-font-tertiary);
+    font-size: 20px;
+    padding: 20px ;
+    background-color: var(--ct-color-bg-secondary);
+    height: 93px;    
+}
+header h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+
+.ct-title-secundary{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--ct-color-font-secondary);
+    font-size: 20px;    
+    padding: 75px 70px 75px 70px;
+}
+
+
+

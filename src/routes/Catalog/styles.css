@@ -1,0 +1,25 @@
+
+
+.ct-catalog-main{
+  padding: 0px 20px ;  
+  
+}
+
+.ct-catalog-cards-container{
+    display: grid;
+    grid-gap: 20px;
+
+}
+
+section h3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var( --ct-color-font-secondary);
+    padding: 25px 56px; 
+    font-size: 20px;
+    
+}
+
+
+
